@@ -4,7 +4,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import TextLoader
 
 # Load documents (can be PDFs, txt, etc.)
-loader = TextLoader("/home/sharmistha-choudhury/sharmi/sharmi.txt")
+loader = TextLoader("absolute path of the file")
 docs = loader.load()
 
 # Split text
