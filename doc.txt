@@ -1,0 +1,21 @@
+mbc-qrai-miq (2025-06-23 18:38 GMT+5:30) - Transcript
+Attendees
+Kiran Vijapure, Sharmistha Choudhury
+Transcript
+Sharmistha Choudhury: Yes. what's the status?
+Kiran Vijapure: I was currently working about data transfer after ownership transfer.
+Sharmistha Choudhury: Your voice is breaking. It is not totally smooth.
+Kiran Vijapure: Is it okay now?
+Sharmistha Choudhury: It's open.
+Kiran Vijapure: What are you working on?
+Sharmistha Choudhury: Yeah. It is open now. so that one ownership transfer is working fine. Your voice is not clear.
+Kiran Vijapure: I'm not able to get the admin to Okay.
+Sharmistha Choudhury: It has a noisy voice. Okay. I saw some of issues with state. I close those issues. Yes. So I tried with file injection also. It seems it is working now. I have to check eval also. did you remember we got those issues with eval something.
+Kiran Vijapure: Yes. I think now you can run
+Sharmistha Choudhury: Okay.
+Kiran Vijapure: Okay, thank you.
+Sharmistha Choudhury: So, I'm cutting the call.
+Sharmistha Choudhury: Thank.
+Meeting ended after 00:01:57 👋
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
+
